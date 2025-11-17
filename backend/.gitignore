@@ -15,5 +15,7 @@ npm-debug.log*
 .DS_Store
 Thumbs.db
 
+public/
+
 # Audio files (optional - uncomment if you don't want to commit audio files)
 # public/audio/*.mp3
