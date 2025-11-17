@@ -1,0 +1,43 @@
+📁 AUDIO FILES DIRECTORY
+========================
+
+Please place your MP3 files here with the following names:
+
+Happy Mood (3 songs):
+- happy1.mp3
+- happy2.mp3
+- happy3.mp3
+
+Sad Mood (3 songs):
+- sad1.mp3
+- sad2.mp3
+- sad3.mp3
+
+Romantic Mood (3 songs):
+- romantic1.mp3
+- romantic2.mp3
+- romantic3.mp3
+
+Energetic Mood (3 songs):
+- energetic1.mp3
+- energetic2.mp3
+- energetic3.mp3
+
+TOTAL: 12 MP3 files needed
+
+⚠️ IMPORTANT:
+- Use royalty-free music or music you have rights to use
+- Recommended duration: 30-60 seconds per song
+- Supported format: MP3
+
+🎵 Where to find free music:
+- Free Music Archive: https://freemusicarchive.org/
+- Incompetech: https://incompetech.com/
+- Bensound: https://www.bensound.com/
+- YouTube Audio Library: https://www.youtube.com/audiolibrary
+
+After adding your MP3 files, run:
+  cd backend
+  npm run seed
+
+This will populate the database with song metadata.
