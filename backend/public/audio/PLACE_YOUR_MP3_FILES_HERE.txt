@@ -13,27 +13,17 @@ Sad Mood (3 songs):
 - sad2.mp3
 - sad3.mp3
 
-Energetic Mood (3 songs):
-- energetic1.mp3
-- energetic2.mp3
-- energetic3.mp3
-
 Romantic Mood (3 songs):
 - romantic1.mp3
 - romantic2.mp3
 - romantic3.mp3
 
-Focus Mood (3 songs):
-- focus1.mp3
-- focus2.mp3
-- focus3.mp3
+Energetic Mood (3 songs):
+- energetic1.mp3
+- energetic2.mp3
+- energetic3.mp3
 
-Chill Mood (3 songs):
-- chill1.mp3
-- chill2.mp3
-- chill3.mp3
-
-TOTAL: 18 MP3 files needed
+TOTAL: 12 MP3 files needed
 
 ⚠️ IMPORTANT:
 - Use royalty-free music or music you have rights to use

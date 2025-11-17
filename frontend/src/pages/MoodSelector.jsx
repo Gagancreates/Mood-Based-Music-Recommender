@@ -21,13 +21,6 @@ const MoodSelector = () => {
       description: 'Embrace emotions'
     },
     {
-      name: 'Energetic',
-      emoji: '⚡',
-      color: '#FF6B6B',
-      gradient: 'linear-gradient(135deg, #FF6B6B 0%, #EE5A6F 100%)',
-      description: 'Power up'
-    },
-    {
       name: 'Romantic',
       emoji: '💕',
       color: '#FF85C1',
@@ -35,18 +28,11 @@ const MoodSelector = () => {
       description: 'Love in the air'
     },
     {
-      name: 'Focus',
-      emoji: '🎯',
-      color: '#9B59B6',
-      gradient: 'linear-gradient(135deg, #9B59B6 0%, #8E44AD 100%)',
-      description: 'Get in the zone'
-    },
-    {
-      name: 'Chill',
-      emoji: '🌊',
-      color: '#4ECDC4',
-      gradient: 'linear-gradient(135deg, #4ECDC4 0%, #44A08D 100%)',
-      description: 'Just relax'
+      name: 'Energetic',
+      emoji: '⚡',
+      color: '#FF6B6B',
+      gradient: 'linear-gradient(135deg, #FF6B6B 0%, #EE5A6F 100%)',
+      description: 'Power up'
     }
   ];
 

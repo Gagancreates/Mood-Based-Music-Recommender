@@ -96,52 +96,6 @@ const songs = [
     mood: 'romantic',
     audioUrl: 'http://localhost:5000/audio/romantic3.mp3',
     albumArt: 'https://images.unsplash.com/photo-1445985543470-41fba5c3144a?w=300&h=300&fit=crop'
-  },
-
-  // Focus songs
-  {
-    title: 'Deep Concentration',
-    artist: 'Mind Flow',
-    mood: 'focus',
-    audioUrl: 'http://localhost:5000/audio/focus1.mp3',
-    albumArt: 'https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=300&h=300&fit=crop'
-  },
-  {
-    title: 'Productivity Zone',
-    artist: 'Study Sessions',
-    mood: 'focus',
-    audioUrl: 'http://localhost:5000/audio/focus2.mp3',
-    albumArt: 'https://images.unsplash.com/photo-1507838153414-b4b713384a76?w=300&h=300&fit=crop'
-  },
-  {
-    title: 'Zen Workspace',
-    artist: 'Ambient Minds',
-    mood: 'focus',
-    audioUrl: 'http://localhost:5000/audio/focus3.mp3',
-    albumArt: 'https://images.unsplash.com/photo-1487180144351-b8472da7d491?w=300&h=300&fit=crop'
-  },
-
-  // Chill songs
-  {
-    title: 'Lazy Sunday',
-    artist: 'Relaxation Station',
-    mood: 'chill',
-    audioUrl: 'http://localhost:5000/audio/chill1.mp3',
-    albumArt: 'https://images.unsplash.com/photo-1510915228340-29c85a43dcfe?w=300&h=300&fit=crop'
-  },
-  {
-    title: 'Peaceful Waves',
-    artist: 'Calm Vibes',
-    mood: 'chill',
-    audioUrl: 'http://localhost:5000/audio/chill2.mp3',
-    albumArt: 'https://images.unsplash.com/photo-1506157786151-b8491531f063?w=300&h=300&fit=crop'
-  },
-  {
-    title: 'Sunset Lounge',
-    artist: 'Smooth Grooves',
-    mood: 'chill',
-    audioUrl: 'http://localhost:5000/audio/chill3.mp3',
-    albumArt: 'https://images.unsplash.com/photo-1475274047050-1d0c0975c63e?w=300&h=300&fit=crop'
   }
 ];
 

@@ -6,7 +6,7 @@ A beautiful, minimal web application that recommends music based on your current
 
 ## ✨ Features
 
-- 🎭 **6 Mood Categories**: Happy, Sad, Energetic, Romantic, Focus, Chill
+- 🎭 **4 Mood Categories**: Happy, Sad, Romantic, Energetic
 - 🎨 **Beautiful UI**: Modern, responsive design with smooth animations
 - 🎵 **Local Audio**: All music files stored locally - no external API dependencies
 - ❤️ **Favorites**: Save your favorite songs (browser localStorage)
@@ -97,22 +97,16 @@ backend/public/audio/
 ├── sad1.mp3
 ├── sad2.mp3
 ├── sad3.mp3
-├── energetic1.mp3
-├── energetic2.mp3
-├── energetic3.mp3
 ├── romantic1.mp3
 ├── romantic2.mp3
 ├── romantic3.mp3
-├── focus1.mp3
-├── focus2.mp3
-├── focus3.mp3
-├── chill1.mp3
-├── chill2.mp3
-└── chill3.mp3
+├── energetic1.mp3
+├── energetic2.mp3
+└── energetic3.mp3
 ```
 
 **Important Notes:**
-- You need to provide your own MP3 files (3 songs per mood = 18 total)
+- You need to provide your own MP3 files (3 songs per mood = 12 total)
 - Name them exactly as shown above, or update the seed script accordingly
 - Use royalty-free music or music you have rights to use
 - Each file should be a 30-60 second preview for best user experience
@@ -158,12 +152,10 @@ You should see output like:
 ```
 ✅ Connected to MongoDB
 ✅ Cleared existing songs
-✅ Successfully seeded 18 songs
+✅ Successfully seeded 12 songs
 
 📊 Songs by mood:
-   chill: 3 songs
    energetic: 3 songs
-   focus: 3 songs
    happy: 3 songs
    romantic: 3 songs
    sad: 3 songs

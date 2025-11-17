@@ -14,7 +14,7 @@ const songSchema = new mongoose.Schema({
   mood: {
     type: String,
     required: true,
-    enum: ['happy', 'sad', 'energetic', 'romantic', 'focus', 'chill'],
+    enum: ['happy', 'sad', 'romantic', 'energetic'],
     lowercase: true
   },
   audioUrl: {

@@ -14,19 +14,15 @@ const SongsByMood = () => {
   const moodEmojis = {
     happy: '😊',
     sad: '😢',
-    energetic: '⚡',
     romantic: '💕',
-    focus: '🎯',
-    chill: '🌊'
+    energetic: '⚡'
   };
 
   const moodColors = {
     happy: '#FFD93D',
     sad: '#6C95D1',
-    energetic: '#FF6B6B',
     romantic: '#FF85C1',
-    focus: '#9B59B6',
-    chill: '#4ECDC4'
+    energetic: '#FF6B6B'
   };
 
   useEffect(() => {

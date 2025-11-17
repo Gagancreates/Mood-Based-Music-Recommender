@@ -8,10 +8,10 @@ router.get('/mood/:mood', async (req, res) => {
     const { mood } = req.params;
 
     // Validate mood
-    const validMoods = ['happy', 'sad', 'energetic', 'romantic', 'focus', 'chill'];
+    const validMoods = ['happy', 'sad', 'romantic', 'energetic'];
     if (!validMoods.includes(mood.toLowerCase())) {
       return res.status(400).json({
-        error: 'Invalid mood. Choose from: happy, sad, energetic, romantic, focus, chill'
+        error: 'Invalid mood. Choose from: happy, sad, romantic, energetic'
       });
     }
 
