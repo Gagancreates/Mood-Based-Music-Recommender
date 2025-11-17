@@ -1,6 +1,7 @@
 .songs-by-mood-container {
   min-height: 100vh;
   padding: 40px 20px;
+  background: rgb(38, 27, 27);
 }
 
 .header {
