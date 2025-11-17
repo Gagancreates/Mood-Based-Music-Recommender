@@ -43,6 +43,9 @@ const MoodSelector = () => {
   return (
     <div className="mood-selector-container">
       <div className="header">
+        <button className="favorites-nav-button" onClick={() => navigate('/favorites')}>
+          ❤️ Favorites
+        </button>
         <h1 className="title">🎵 Mood Music</h1>
         <p className="subtitle">How are you feeling today?</p>
       </div>

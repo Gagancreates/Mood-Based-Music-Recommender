@@ -19,6 +19,9 @@ const SongCard = ({ song, moodColor }) => {
       localStorage.setItem('favorites', JSON.stringify(favorites));
       setIsFavorite(true);
     }
+
+    // Dispatch custom event for same-tab updates
+    window.dispatchEvent(new Event('favoritesUpdated'));
   };
 
   return (
