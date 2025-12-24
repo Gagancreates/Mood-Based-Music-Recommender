@@ -4,16 +4,16 @@ A beautiful, minimal web application that recommends music based on your current
 
 ![Mood Music App](https://img.shields.io/badge/React-19.2.0-blue) ![Node.js](https://img.shields.io/badge/Node.js-Express-green) ![MongoDB](https://img.shields.io/badge/MongoDB-Local-brightgreen)
 
-## ✨ Features
+## Features
 
-- 🎭 **4 Mood Categories**: Happy, Sad, Romantic, Energetic
-- 🎨 **Beautiful UI**: Modern, responsive design with smooth animations
-- 🎵 **Local Audio**: All music files stored locally - no external API dependencies
-- ❤️ **Favorites**: Save your favorite songs (browser localStorage)
-- 📱 **Responsive**: Works perfectly on desktop, tablet, and mobile
-- ⚡ **Fast**: No authentication, no loading delays
+- **4 Mood Categories**: Happy, Sad, Romantic, Energetic
+- **Beautiful UI**: Modern, responsive design with smooth animations
+- **Local Audio**: All music files stored locally - no external API dependencies
+- **Favorites**: Save your favorite songs (browser localStorage)
+- **Responsive**: Works perfectly on desktop, tablet, and mobile
+- **Fast**: No authentication, no loading delays
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 - React 19.2.0
@@ -62,7 +62,7 @@ Mood-Based-Music-Recommender/
 └── README.md
 ```
 
-## 🚀 Setup Instructions
+## Setup Instructions
 
 ### Prerequisites
 
@@ -164,7 +164,7 @@ cd frontend
 npm start
 ```
 
-## 🌐 API Endpoints
+## API Endpoints
 
 ### Get all songs by mood
 ```
@@ -206,6 +206,4 @@ GET /api/health
 
 ---
 
-Made with ❤️ and 🎵
 
-**Enjoy your mood-based music experience!**
